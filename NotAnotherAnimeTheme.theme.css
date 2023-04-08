@@ -7,8 +7,9 @@
 * @source https://github.com/puckzxz/NotAnotherAnimeTheme
 * @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
 */
-@import url(https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css);
+
 @import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
+@import url(https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css);
 
 /*
   To make editing this theme easier I recommend using Notepad++
@@ -55,9 +56,8 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-/*
   --server-listing-width: 126px;
-*/
+  
   /*
     Font Size
   */
